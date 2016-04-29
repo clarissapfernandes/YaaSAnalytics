@@ -37,7 +37,7 @@ Caveats
 
 Resources
 -------------------
-* SCN - blog post http://scn.sap.com/docs/DOC-72393
+* SCN - blog post http://scn.sap.com/docs/DOC-72394
 
 License
 ---------
