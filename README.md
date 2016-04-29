@@ -5,11 +5,11 @@ YaaS is a cloud platform that allows everyone to easily develop, extend and sell
 SAP Lumira supports consumption of different data sources to create data sets but does not support REST based web services with OAuth 2.0 functionality. YaaS exposes  its web services which are REST based. The extension gives the users the option to conveniently access YaaS APIs within SAP Lumira. This extension is built with the version 2 Lumira Data Access Extension SDK.  
 
 
-Install the SAP YaaS Analytic Extension
+Install the SAP YaaS Analytics Extension
 -----------------
 * Open Extension Manager, `File > Extensions`
 * Click `Manual Installation`
-* Select the zip file from `\docs`
+* Select the zip file from `\docs\YaaSAnalytics.zip`
 * Restart SAP Lumira Desktop
 * Select `File > New Dataset`
 * Select `SAP YaaS Analytics` from the list of connectors
@@ -30,7 +30,7 @@ Third-party libraries
 * org.json_0.0.0.jar,
 * slf4j-api-1.7.7.jar
 
-Cavets
+Caveats
 -------------------
 * Language Support for only English
 * Support for only YaaS Json APIs
